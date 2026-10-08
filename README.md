@@ -328,8 +328,8 @@ Data-Analysis-Project/
 
 **Your Name**
 
-* GitHub: `https://github.com/yourusername`
-* LinkedIn: `https://linkedin.com/in/yourprofile`
+* GitHub: `https://github.com/aryankumarr7136`
+* LinkedIn: `https://linkedin.com/in/aryankumar7136`
 
 ---
 
